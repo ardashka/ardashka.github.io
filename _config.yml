@@ -1,3 +1,6 @@
 title: Aleksandra Ardaševa
 description: Active Adaptive Matter Reserch Group
 theme: minima
+header pages: 
+  - index.md
+  - publications.md
