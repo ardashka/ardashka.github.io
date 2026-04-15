@@ -4,5 +4,5 @@ theme: minima
 header_pages:
   - index.md
   - publications.md
-  - project.md
+  - research.md
   - team.md
