@@ -2,11 +2,11 @@
 layout: home
 ---
 
-<table style="width: 100%; border: none;">
+<table style="width: 100%; border: none; border-collapse: collapse;">
 <tr>
 
 <!-- LEFT COLUMN -->
-<td style="width: 30%; vertical-align: top; padding-right: 20px;">
+<td style="width: 30%; vertical-align: top; padding-right: 20px; border: none;">
 
 <img src="/photo-round.jpg" width="200" style="float: right; margin-left: 20px; margin-bottom: 10px;">
 <p>
@@ -22,7 +22,7 @@ layout: home
 </td>
 
 <!-- RIGHT COLUMN -->
-<td style="width: 70%; vertical-align: top;">
+<td style="width: 70%; vertical-align: top; border: none;">
 
 <h1>About me</h1>
 
