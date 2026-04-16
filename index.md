@@ -11,7 +11,7 @@ layout: home
 <img src="/photo-round.jpg" width="200" style="float: right; margin-left: 20px; margin-bottom: 10px;">
 <p>
 <strong>Aleksandra (Sasha) Ardaševa</strong><br>
-<i>SNSF Ambizione Fellow<br>at <a href="https://www.epfl.ch/en/">EPFL</a>, Switzerland </i>
+<i><small>SNSF Ambizione Fellow<br>at <a href="https://www.epfl.ch/en/">EPFL</a>, Switzerland </i></small>
 </p>
 
 <p>
