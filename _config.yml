@@ -3,6 +3,8 @@ theme: minima
 
 header_pages:
   - index.md
+  - cv.md
   - publications.md
   - research.md
   - team.md
+  - outreach.md
