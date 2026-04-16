@@ -1,0 +1,47 @@
+---
+---
+
+@import "minima";
+
+/* Page width (more modern than default) */
+.wrapper {
+  max-width: 900px;
+}
+
+/* Improve typography */
+body {
+  font-size: 17px;
+  line-height: 1.6;
+  color: #222;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-weight: 600;
+  letter-spacing: -0.5px;
+}
+
+/* Links (academic style: subtle but clear) */
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Header (top bar) */
+.site-header {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* Reduce excessive spacing */
+.page-content {
+  padding-top: 20px;
+}
+
+/* News list spacing */
+ul {
+  margin-top: 0.5em;
+}
