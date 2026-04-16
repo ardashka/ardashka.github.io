@@ -36,8 +36,8 @@ I obtained my PhD from the University of Oxford under the supervision of Prof. P
 <h2>News</h2>
 
 <ul>
-<li><strong>Apr 2026</strong> — Presentation at XYZ Conference</li>
-<li><strong>Mar 2026</strong> — New preprint on arXiv</li>
+<li><strong>Apr 2026</strong> — Hengdong will present a poster at <a href="https://intcha26.sciencesconf.org/">IntCha26/a> in Cargese, Corsica.</li>
+<li><strong>Mar 2026</strong> — New preprint 'Cell-induced wrinkling patterns on soft substrates' is available on <a href="https://arxiv.org/pdf/2603.12839">arXiv</a>! Joint work with Deguchi Lab at the Osaka University.</li>
 </ul>
 
 </td>
