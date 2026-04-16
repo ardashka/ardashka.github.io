@@ -17,6 +17,7 @@ layout: home
 <p>
 <a href="https://www.linkedin.com/in/aleksandra-arda%C5%A1eva-4988a362/" target="_blank">LinkedIn</a><br>
 <a href="https://scholar.google.com/citations?user=hNvC4rUAAAAJ&hl=en" target="_blank">Google Scholar</a>
+name.surname [at] epfl.ch
 </p>
 
 </td>
