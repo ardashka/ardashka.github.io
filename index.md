@@ -11,13 +11,13 @@ layout: home
 <img src="/photo-round.jpg" width="200" style="float: right; margin-left: 20px; margin-bottom: 10px;">
 <p>
 <strong>Aleksandra (Sasha) Ardaševa</strong><br>
-<i>SNSF Ambizione Fellow at <a href="https://www.epfl.ch/en/">EPFL</a>, Switzerland </i>
+<i>SNSF Ambizione Fellow<br>at <a href="https://www.epfl.ch/en/">EPFL</a>, Switzerland </i>
 </p>
 
 <p>
 <a href="https://www.linkedin.com/in/aleksandra-arda%C5%A1eva-4988a362/" target="_blank">LinkedIn</a><br>
-<a href="https://scholar.google.com/citations?user=hNvC4rUAAAAJ&hl=en" target="_blank">Google Scholar</a>
-Contact:
+<a href="https://scholar.google.com/citations?user=hNvC4rUAAAAJ&hl=en" target="_blank">Google Scholar</a><br>
+Contact:<br>
 <small>name.surname [at] epfl.ch</small>
 </p>
 
