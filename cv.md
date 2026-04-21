@@ -9,7 +9,6 @@ title: CV
 
 **DPhil in Systems Approaches to Biomedical Sciences (Mathematics)** — Corpus Christi College, University of Oxford, UK  
 2016–2021  
-
 - Fully funded by EPSRC-MRC<br>
 - Thesis: *Modelling the effects of temporal variations of blood flow in tumours*<br>
 - Supervisors: Maini PK, Byrne HM, Gatenby RA, Anderson ARA
