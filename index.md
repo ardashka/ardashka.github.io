@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<table style="width: 100%; border: none; border-collapse: collapse;">
+<table style="width: 120%; border: none; border-collapse: collapse;">
 <tr>
 
 <!-- LEFT COLUMN -->
