@@ -4,7 +4,7 @@ title: Research
 ---
 
 <h2>Active Adaptive Matter </h2> <br>
-<a href="[URL](https://data.snf.ch/grants/grant/232854)">An SNSF-funded project</a>
+<a href="https://data.snf.ch/grants/grant/232854">An SNSF-funded project</a>
 
 <p style="text-align: center;">
  <img src="/aam2.png" width="500">
