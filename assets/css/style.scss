@@ -1,7 +1,10 @@
 ---
 ---
 
-@import "minima";
+@import "minima/base";
+@import "minima/layout";
+@import "minima/syntax-highlighting";
+
 
 /* Page width (more modern than default) */
 .wrapper {
@@ -36,13 +39,11 @@ a:hover {
   border-bottom: 5px solid #e5e5e5;
 }
 
-.page-heading {
-  display: none;
-}
 
 .site-footer {
-  display: none;
+  display: none !important;
 }
+
 
 /* Reduce excessive spacing */
 .page-content {
