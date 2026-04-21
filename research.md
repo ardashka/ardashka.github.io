@@ -4,7 +4,7 @@ title: Research
 ---
 
 <h2>Active Adaptive Matter </h2> <br>
-[An SNSF-funded project](https://ardashka.github.io/research.html) <br>
+<a href="[URL](https://data.snf.ch/grants/grant/232854)">An SNSF-funded project</a>
 
 <p style="text-align: center;">
  <img src="/aam2.png" width="500">
