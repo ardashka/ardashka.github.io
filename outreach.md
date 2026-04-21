@@ -11,5 +11,5 @@ Some of the outreach talks I have given:
 - Intro to mathematical biology at Riga Technical University, Latvia
 
 <p style="text-align: center;">
- <img src="/outreach.png" width="700">
+ <img src="/outreach.png" width="900">
 </p>
