@@ -3,7 +3,8 @@ layout: page
 title: Research
 ---
 
-<h2>Active Adaptive Matter <h/2>- [An SNSF-funded project](https://ardashka.github.io/research.html) <br>
+<h2>Active Adaptive Matter <h/2> <br>
+[An SNSF-funded project](https://ardashka.github.io/research.html) <br>
 
 <p style="text-align: center;">
  <img src="/aam2.png" width="500">
