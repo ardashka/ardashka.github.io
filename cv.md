@@ -21,7 +21,7 @@ Supervisors: Maini PK, Byrne HM, Gatenby RA, Anderson ARA
 
 ## Positions
 
-2026–present: **SNSF Ambizione Fellow** — School of Life Science, EPFL, Switzerland<br>
+2026–now:  **SNSF Ambizione Fellow** — School of Life Science, EPFL, Switzerland<br>
 
 
 2025–2026: **Postdoctoral Researcher** — Laboratoire Interdisciplinaire de Physique, Université Grenoble Alpes, France<br>
