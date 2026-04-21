@@ -3,6 +3,26 @@ layout: page
 title: CV
 ---
 
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div><strong>2016–2020</strong></div>
+  <div>
+    <strong>DPhil in Mathematics</strong><br>
+    University of Oxford, UK<br>
+    fully funded by EPSRC-MRC<br>
+    Thesis title: ...
+  </div>
+</div>
+
+<br>
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div><strong>2013–2016</strong></div>
+  <div>
+    MSc in Physics<br>
+    University Name
+  </div>
+</div>
+
 ## Education
 
 **DPhil in Systems Approaches to Biomedical Sciences (Mathematics)** — Corpus Christi College, University of Oxford, UK  
