@@ -18,7 +18,7 @@ title: CV
 
 ---
 
-## Positions
+## Experience
 
 2026–now:  **SNSF Ambizione Fellow** — School of Life Science, EPFL, Switzerland<br>
 
@@ -31,51 +31,45 @@ title: CV
 2021–2022: **MSCA COFUND Junior Fellow** — Niels Bohr Institute, University of Copenhagen, Denmark<br>
 
 ---
-## Grants & Fellowships
+## Grants
 SNSF Ambizione Fellowship (888,892 CHF; grant number: <a href="https://data.snf.ch/grants/grant/232854">232854</a>)<br>
 MSCA Individual Fellowship (214 934 €, grant number: <a href="https://doi.org/10.3030/101063870">101063870</a>)  <br>
 MSCA COFUND <a href="https://nbia.nbi.ku.dk/programs/nbia-interactions/">Interactions</a> Junior Fellowship (2 years)<br>
 
 ---
 
-## Research Experience
+## Other research experience
 
-**Visiting Intern** — Lab / Institute  
-Year  
-- Short description of project  
-- Methods / contribution  
+**Visiting Research Scholar** — Integrated Mathematical Oncology Group, Moffit Cancer Centre, FL, USA
+2019, 2017 (4 months in total)  
 
-**Research Internship** — Institution  
-Year  
-- Description  
+**Research Intern** — Physics and Biology Unit, Okinawa Institute of Science and Technology, Japan
+2015, 2016, 2017 (9.5 months in total)  
 
----
+**Research Intern** — Graduate School of Science, University of Tokyo, Japan
+2014 (2 months)  
 
+**Research Intern** — Graduate School of Science, University of Dundee, UK
+2013 (2 months)  
 
 ---
 
 ## Teaching
 
-- Course name — Role (Lecturer / TA) — Year  
-- Course name — Role — Year  
+- Modelling and Scientific Computing (Demonstrator, 2017-2020)
+- Mathematical Biology (Demonstrator, 2017-2020)
+- Part B Further Mathematical Biology (TA, 2018)
 
 ---
 
 ## Student Supervision
 
 - PhD students:
-  - Name (co-supervision if applicable)
+  - Hengong Lu (EPFL, with Ann-Florence Bitbol, 2026-)
 
 - MSc students:
-  - Name, thesis topic  
-
----
-
-## Science Communication
-
-- Talk at Conference Name (Year)  
-- Public lecture / outreach event  
-- Blog / interviews / workshops  
+  - Niels de Graaf Sousa (NBI, with Amin Doostmohammadi, 2024)
+  - Lasse Bonn (NBI, with Amin Doostmohammadi, 2021)
 
 ---
 
