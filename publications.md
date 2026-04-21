@@ -2,17 +2,17 @@
 layout: page
 title: Publications
 ---
-* denotes equal contribution
+! denotes equal contribution
 
 ## Preprints
 
-**Ardaševa, A.***, Venkatesh, V.*, Matsunaga, D., Deguchi, S., Doostmohammadi, A.
+**Ardaševa, A.!**, Venkatesh, V.!, Matsunaga, D., Deguchi, S., Doostmohammadi, A.<br>
 *Cell-induced wrinkling patterns on soft substrates*  
 [arXiv:2603.12839](https://arxiv.org/abs/2603.12839) 
 
 ---
 
-Le Toquin, Y.*, Dubey, S.*, **Ardaševa, A.**, Balasubramaniam, L., Delaune, E., Morin, V., Doostmohammadi, A., Marcelle, C., Ladoux, B.
+Le Toquin, Y.!, Dubey, S.!, **Ardaševa, A.**, Balasubramaniam, L., Delaune, E., Morin, V., Doostmohammadi, A., Marcelle, C., Ladoux, B.<br>
 *Mechanical stresses govern myoblast fusion and myotube growth*  
 [BioRXiv:2024.11.22.624831](https://doi.org/10.1101/2024.11.22.624831)
 
@@ -20,10 +20,10 @@ Le Toquin, Y.*, Dubey, S.*, **Ardaševa, A.**, Balasubramaniam, L., Delaune, E.,
 
 ## Journal Articles
 
-**A. Author**, B. Coauthor, C. Coauthor  
-*Title of the article*  
-Journal Name, Year  
-[DOI](https://doi.org/xxxxx)  
+Monfared. S., **Ardaševa, A.**, Doostmohammadi A. <br>
+*Multiphase-Field Models of Tissues*  
+Annu. Rev. Condens. Matter Phys. 17:91–113, 2026 
+[DOI](https://doi.org/10.1146/annurev-conmatphys060625-061354)
 
 ---
 
