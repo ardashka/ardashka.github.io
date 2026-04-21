@@ -9,7 +9,7 @@ title: CV
 *Fully funded by EPSRC-MRC*<br>
 2016–2021  
 
-Thesis: *TModelling the effects of temporal variations of blood flow in tumours*
+Thesis: *Modelling the effects of temporal variations of blood flow in tumours*<br>
 Supervisors: Maini PK, Byrne HM, Gatenby RA, Anderson ARA
 
 ---
