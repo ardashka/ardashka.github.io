@@ -5,28 +5,12 @@ title: Team
 
 <h2>Group Members</h2>
 
-<table style="width: 100%; border: none; border-collapse: collapse;">
+<div style="text-align: center; margin: 0; padding: 0;">
 
-<tr>
+<img src="/hengdong.png" width="180" style="border-radius: 8px; display: block; margin: 0 auto;">
 
-<td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
-
-<img src="/images/member1.jpg" width="160" style="border-radius: 8px;"><br>
-
-<strong>Member Name 1</strong><br>
+<strong>Hengdong Lu</strong><br>
 <i>PhD Student</i>
 
-</td>
-
-<td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
-
-<img src="/images/member2.jpg" width="160" style="border-radius: 8px;"><br>
-
-<strong>Member Name 2</strong><br>
-<i>Postdoctoral Researcher</i>
-
-</td>
-
-</tr>
-
+</div>
 </table>
