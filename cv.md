@@ -62,7 +62,7 @@ MSCA COFUND <a href="https://nbia.nbi.ku.dk/programs/nbia-interactions/">Interac
 
 ---
 
-## Student Supervision
+## Student supervision
 
 - PhD students:
   - Hengong Lu (EPFL, with Ann-Florence Bitbol, 2026-)
@@ -73,7 +73,8 @@ MSCA COFUND <a href="https://nbia.nbi.ku.dk/programs/nbia-interactions/">Interac
 
 ---
 
-## Selected Talks
+## Event organisation
 
-- Conference name, talk title, Year  
-- Seminar, institution, Year  
+<a href="https://www.embl.org/about/info/course-and-conference-office/events/intcha25/">IntCha25</a>: Interdisciplinary Advances in the Physics of Complexity and Life 2025, Heidelberg, Germany
+
+---
