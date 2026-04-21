@@ -3,26 +3,6 @@ layout: page
 title: CV
 ---
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <div><strong>2016–2020</strong></div>
-  <div>
-    <strong>DPhil in Mathematics</strong><br>
-    University of Oxford, UK<br>
-    fully funded by EPSRC-MRC<br>
-    Thesis title: ...
-  </div>
-</div>
-
-<br>
-
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <div><strong>2013–2016</strong></div>
-  <div>
-    MSc in Physics<br>
-    University Name
-  </div>
-</div>
-
 ## Education
 
 **DPhil in Systems Approaches to Biomedical Sciences (Mathematics)** — Corpus Christi College, University of Oxford, UK  
@@ -41,11 +21,17 @@ Supervisors: Maini PK, Byrne HM, Gatenby RA, Anderson ARA
 
 ## Positions
 
-**SNSF Ambizione Fellow** — EPFL  
-202X–present  
+**SNSF Ambizione Fellow** — School of Life Science, EPFL, Switzerland
+2026–present  
 
-**Postdoctoral Researcher** — Institution  
-202X–202X  
+**Postdoctoral Researcher** — Laboratoire Interdisciplinaire de Physique, Université Grenoble Alpes, France
+2025–2026  
+
+**MSCA Individual Fellow** — Niels Bohr Institute, University of Copenhagen, Denmark
+2023–2025  
+
+**MSCA COFUND Junior Fellow** — Niels Bohr Institute, University of Copenhagen, Denmark
+2021–2022
 
 ---
 
