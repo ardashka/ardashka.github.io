@@ -6,7 +6,7 @@ title: CV
 ## Education
 
 **DPhil in Systems Approaches to Biomedical Sciences (Mathematics)** — Corpus Christi College, University of Oxford, UK  
-Fully funded by EPSRC-MRC
+*Fully funded by EPSRC-MRC*<br>
 2016–2021  
 
 Thesis: *TModelling the effects of temporal variations of blood flow in tumours*
