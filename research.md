@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-<h2>Active Adaptive Matter </h2> <br>
+<h2>Active Adaptive Matter </h2> 
 <a href="https://data.snf.ch/grants/grant/232854">An SNSF-funded project</a>
 
 <p style="text-align: center;">
