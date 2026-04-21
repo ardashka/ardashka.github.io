@@ -3,7 +3,7 @@ layout: page
 title: Team
 ---
 
-<h2>Group Members</h2>
+<h2 style="margin-bottom: 20px;">Group Members</h2>
 
 <div style="text-align: center; margin: 0; padding: 0;">
 
@@ -13,4 +13,4 @@ title: Team
 <i>PhD Student</i>
 
 </div>
-</table>
+
