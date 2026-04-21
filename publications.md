@@ -18,6 +18,8 @@ Le Toquin Y.!, Dubey S.!, **Ardaševa A.**, Balasubramaniam L., Delaune E., Mori
 
 ---
 
+---
+
 ## Journal Articles
 
 Monfared S., **Ardaševa A.**, Doostmohammadi A. <br>
@@ -36,12 +38,82 @@ Philosophical Transactions of the Royal Society A: Mathematical, Physical and En
 
 **Ardaševa A.!**, Vélez-Cerón I.!, Pedersen M.C., Ignés-Mullol J., Sagués F., Doostmohammadi A. <br>
 *Beyond dipolar activity: Quadrupolar stress drives collapse of nematic order on frictional substrates*  
-Physical Review Letters, 134(8), p.088301, 2025 
+Physical Review Letters 134(8) p.088301, 2025 
 [DOI](https://doi.org/10.1103/PhysRevLett.134.088301)
 
 ---
 
 Balasubramaniam L.!, Monfared S.!, **Ardaševa A.**, Rosse C., Schoenit A., Dang T., Maric C., Hautefeuille M., Kocgozlu L., Chilupuri R., Dubey S., Marangoni E.,  Doss L., Chavrier Ph., Mége R-M., Doostmohammadi A., Ladoux B. <br>
 *Dynamic forces shape the survival fate of eliminated cells*  
-Nature Physics volume 21, p.269–278, 2025
+Nature Physics volume 21 p.269–278, 2025
 [DOI](https://doi.org/10.1038/s41567-024-02716-5)
+
+---
+
+Chaithanya K.V.S., **Ardaševa A.**, Meacock O.J., Durham W.M., Thampi S.P., Doostmohammadi A. <br>
+*Transport of topological defects in a biphasic mixture of active and passive nematic fluids*  
+Communications Physics 7(1) p.302, 2024 
+[DOI](https://doi.org/10.1038/s42005-024-01792-6)
+
+---
+
+Bonn L., **Ardaševa A.**, Doostmohammadi A. <br>
+*Elasticity tunes mechanical stress localization around active topological defects*  
+Soft Matter 20(1) p.115-123, 2024
+[DOI](https://doi.org/10.1039/D3SM01113E)
+
+---
+Bonn L.!, **Ardaševa A.!**, Mueller R., Shendruk T. N., Doostmohammadi A. <br>
+*Fluctuation-induced dynamics of nematic topological defects*  
+Physical Review E 106 044706, 2022
+[DOI](https://doi.org/10.1103/PhysRevE.106.044706)
+
+---
+
+**Ardaševa A.**, Mueller R., Doostmohammadi A. <br>
+*Bridging microscopic cell dynamics to nematohydrodynamics of cell monolayers*  
+Soft Matter 18 p.4737-4746, 2022
+[DOI](https://doi.org/10.1039/D2SM00537A)
+
+---
+**Ardaševa A.**, Doostmohammadi A. <br>
+*Topological defects in biological matter*  
+Nature Reviews Physics 4(6) p.354-356., 2022
+[DOI](https://doi.org/10.1038/s42254-022-00469-9)
+
+---
+
+Diaz Arenas C., **Ardaševa A.**, Miller J., Mikheyev A.S., Yokobayashi Y. <br>
+*Ribozyme Mutagenic Evolution: Mechanisms of Survival*  
+Origins of Life and Evolution of Biospheres 51(4) p.321-339, 2021
+[DOI](https://doi.org/10.1007/s11084-021-09617-0)
+
+---
+
+**Ardaševa A.**, Anderson A.R., Gatenby R.A., Byrne H.M., Maini P.K., Lorenzi T. <br>
+*Comparative study between discrete and continuum models for the evolution of competing phenotype-structured cell populations in dynamical environments*  
+Physical Review E 102(4) p.042404, 2020
+[DOI](https://doi.org/10.1103/PhysRevE.102.042404)
+
+---
+
+**Ardaševa A.**, Gatenby R.A., Anderson A.R., Byrne H.M., Maini P.K., Lorenzi T. <br>
+*A Mathematical Dissection of the Adaptation of Cell Populations to Fluctuating Oxygen Levels*  
+Bulletin of Mathematical Biology 82 (6) p.81, 2020
+[DOI](https://doi.org/10.1007/s11538-020-00754-7)
+
+---
+
+**Ardaševa A.**, Gatenby R.A., Anderson A.R., Byrne H.M., Maini P.K., Lorenzi T. <br>
+*Evolutionary dynamics of competing phenotype-structured populations in periodically fluctuating environments*  
+Journal of Mathematical Biology 80 (3) 775-807, 2020
+[DOI](https://doi.org/10.1007/s00285-019-01441-5)
+
+---
+
+Onaka T., Mori T., Sakon I., **Ardaseva A.**<br>
+*AKARI Near-infrared Spectroscopy of the Extended Green Object G318. 05+ 0.09: Detection of CO Fundamental Ro-vibrational Emission*  
+The Astrophysical Journal 829(2) p.106, 2016
+[DOI](http://dx.doi.org/10.3847/0004-637X/829/2/106)
+
+---
