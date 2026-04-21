@@ -3,6 +3,7 @@ layout: page
 title: Team
 ---
 
+I am grateful to be hosted by the <a href="https://www.epfl.ch/labs/bitbol-lab/">Bitbol Lab</a> at EPFL.
 
 <div style="text-align: center; margin: 0; padding: 0;">
 
