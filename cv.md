@@ -3,6 +3,8 @@ layout: page
 title: CV
 ---
 
+---
+
 ## Education
 
 **DPhil in Systems Approaches to Biomedical Sciences (Mathematics)** — Corpus Christi College, University of Oxford, UK  
@@ -11,8 +13,6 @@ title: CV
 
 Thesis: *Modelling the effects of temporal variations of blood flow in tumours*<br>
 Supervisors: Maini PK, Byrne HM, Gatenby RA, Anderson ARA
-
----
 
 **BSc Hons in Astrophysics** — University of St Andrews, UK<br>
 2012–2016  
@@ -30,7 +30,6 @@ Supervisors: Maini PK, Byrne HM, Gatenby RA, Anderson ARA
 
 
 2021–2022: **MSCA COFUND Junior Fellow** — Niels Bohr Institute, University of Copenhagen, Denmark<br>
-
 
 ---
 
