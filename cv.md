@@ -75,8 +75,6 @@ MSCA COFUND <a href="https://nbia.nbi.ku.dk/programs/nbia-interactions/">Interac
 
 ---
 
----
-
 ## Other
 
 - I am a reviewer of papers in PRL, PRE, Journal of Mathematical Biology, Journal of Theoretical Biology, Soft Matter, and more.
