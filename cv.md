@@ -14,8 +14,8 @@ Supervisors: Maini PK, Byrne HM, Gatenby RA, Anderson ARA
 
 ---
 
-**MSc in Physics** — University Name  
-201X–201X  
+**BSc Hons in Astrophysics** — University of St Andrews, UK
+2012–2016  
 
 ---
 
