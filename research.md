@@ -3,8 +3,8 @@ layout: page
 title: Research
 ---
 
-<h2>Active Adaptive Matter </h2> 
-<a href="https://data.snf.ch/grants/grant/232854">An SNSF-funded project</a>
+<h2 style="margin: 0 0 5px 0;">Active Adaptive Matter </h2> 
+<a href="https://data.snf.ch/grants/grant/232854">An SNSF-funded project</a><br>
 
 <p>Living organisms, such as bacteria and eukaryotes, exhibit rich behaviours and display different phenotypes, i.e., different observable characteristics such as physical properties, depending on their direct surroundings. One important source of variability in the immediate environment of living cells is the presence of deformable, nutrient-rich networks. Examples of such networks include vasculature in healthy and malignant tissue, as well as bacterial biofilms interspersed with water channels. These networks not only vary spatially and physically constrain the populations of cells, but also affect these populations through nutrient availability variations caused by diffusion limits. </p>
  
