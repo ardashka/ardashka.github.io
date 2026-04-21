@@ -3,8 +3,9 @@
 
 
 /* Page width (more modern than default) */
-.wrapper {
-  max-width: 1500px;
+.wrapper, .container {
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 /* Improve typography */
@@ -12,7 +13,9 @@ body {
   font-size: 17px;
   line-height: 1.6;
   color: #222;
+  background: #ff00ff !important;
 }
+
 
 /* Headings */
 h1, h2, h3 {
