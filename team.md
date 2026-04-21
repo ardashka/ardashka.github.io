@@ -3,7 +3,6 @@ layout: page
 title: Team
 ---
 
-<h2 style="margin-bottom: 20px;">Group Members</h2>
 
 <div style="text-align: center; margin: 0; padding: 0;">
 
