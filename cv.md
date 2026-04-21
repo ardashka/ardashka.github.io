@@ -21,17 +21,19 @@ Supervisors: Maini PK, Byrne HM, Gatenby RA, Anderson ARA
 
 ## Positions
 
+2026–present  <br>
 **SNSF Ambizione Fellow** — School of Life Science, EPFL, Switzerland<br>
-2026–present  
 
+2025–2026  <br>
 **Postdoctoral Researcher** — Laboratoire Interdisciplinaire de Physique, Université Grenoble Alpes, France<br>
-2025–2026  
 
+2023–2025   <br>
 **MSCA Individual Fellow** — Niels Bohr Institute, University of Copenhagen, Denmark<br>
-2023–2025  
 
+
+2021–2022 <br>
 **MSCA COFUND Junior Fellow** — Niels Bohr Institute, University of Copenhagen, Denmark<br>
-2021–2022
+
 
 ---
 
