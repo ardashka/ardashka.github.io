@@ -5,10 +5,12 @@ title: CV
 
 ## Education
 
-**PhD in Theoretical Biophysics** — University of Oxford  
-201X–201X  
+**DPhil in Systems Approaches to Biomedical Sciences (Mathematics)** — Corpus Christi College, University of Oxford, UK  
+Fully funded by EPSRC-MRC
+2016–2021  
 
-Thesis: *Title of thesis*
+Thesis: *TModelling the effects of temporal variations of blood flow in tumours*
+Supervisors: Maini PK, Byrne HM, Gatenby RA, Anderson ARA
 
 ---
 
