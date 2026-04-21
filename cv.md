@@ -31,6 +31,12 @@ title: CV
 2021–2022: **MSCA COFUND Junior Fellow** — Niels Bohr Institute, University of Copenhagen, Denmark<br>
 
 ---
+## Grants & Fellowships
+SNSF Ambizione Fellowship (888,892 CHF; grant number: <a href="https://data.snf.ch/grants/grant/232854">232854</a>232854)
+MSCA Individual Fellowship (214 934 €, grant number: <a href="https://doi.org/10.3030/101063870">101063870</a>)  
+MSCA COFUND <a href="https://nbia.nbi.ku.dk/programs/nbia-interactions/">Interactions</a> Junior Fellowship (2 years)
+
+---
 
 ## Research Experience
 
@@ -45,11 +51,6 @@ Year
 
 ---
 
-## Grants & Fellowships
-
-- SNSF Ambizione Fellowship (202X–present)  
-- MSCA Individual Fellowship (if applicable)  
-- Other grants  
 
 ---
 
