@@ -40,17 +40,13 @@ MSCA COFUND <a href="https://nbia.nbi.ku.dk/programs/nbia-interactions/">Interac
 
 ## Other research experience
 
-**Visiting Research Scholar** — Integrated Mathematical Oncology Group, Moffit Cancer Centre, FL, USA
-2019, 2017 (4 months in total)  
+**Visiting Research Scholar** — Integrated Mathematical Oncology Group, Moffit Cancer Centre, FL, USA (2017-19, 4 months in total)  
 
-**Research Intern** — Physics and Biology Unit, Okinawa Institute of Science and Technology, Japan
-2015, 2016, 2017 (9.5 months in total)  
+**Research Intern** — Physics and Biology Unit, Okinawa Institute of Science and Technology, Japan (2015-2017, 9.5 months in total)  
 
-**Research Intern** — Graduate School of Science, University of Tokyo, Japan
-2014 (2 months)  
+**Research Intern** — Graduate School of Science, University of Tokyo, Japan (2014, 2 months)  
 
-**Research Intern** — Graduate School of Science, University of Dundee, UK
-2013 (2 months)  
+**Research Intern** — Graduate School of Science, University of Dundee, UK (2013, 2 months)  
 
 ---
 
@@ -65,7 +61,7 @@ MSCA COFUND <a href="https://nbia.nbi.ku.dk/programs/nbia-interactions/">Interac
 ## Student supervision
 
 - PhD students:
-  - Hengong Lu (EPFL, with Ann-Florence Bitbol, 2026-)
+  - Hengdong Lu (EPFL, with Ann-Florence Bitbol, 2026-now)
 
 - MSc students:
   - Niels de Graaf Sousa (NBI, with Amin Doostmohammadi, 2024)
