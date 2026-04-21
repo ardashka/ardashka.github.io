@@ -27,7 +27,7 @@ Annu. Rev. Condens. Matter Phys. 17:91–113, 2026
 
 ---
 
-**A. Author**, B. Coauthor  
-*Another article title*  
-Journal Name, Year  
-[DOI](https://doi.org/xxxxx)  
+de Graaf Sousa, N., Andersen, S.G., **Ardaševa, A.**, Doostmohammadi, A.
+*Self-propulsive active nematics.*  
+Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 383(2304), 2025
+[DOI](https://doi.org/10.1098/rsta.2024.0272)
