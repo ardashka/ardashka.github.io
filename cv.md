@@ -24,13 +24,13 @@ title: CV
 
 
 2025–2026: **Postdoctoral Researcher** — Laboratoire Interdisciplinaire de Physique, Université Grenoble Alpes, France<br>
--Supervisor: Gravelle S, Lorenceau E, Dollet B, Coupier Gw
+- Supervisors: Gravelle S, Lorenceau E, Dollet B, Coupier Gw
 
 2023–2025: **MSCA Individual Fellow** — Niels Bohr Institute, University of Copenhagen, Denmark<br>
--Supervisor: Doostmohammadi A
+- Supervisor: Doostmohammadi A
 
 2021–2022: **MSCA COFUND Junior Fellow** — Niels Bohr Institute, University of Copenhagen, Denmark<br>
--Supervisor: Doostmohammadi A
+- Supervisor: Doostmohammadi A
 
 ---
 ## Grants
