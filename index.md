@@ -35,7 +35,7 @@ Contact:<br>
 
 <h2>News & Upcoming events</h2>
 <ul>
-<li><strong>Jul 2026</strong> — Sasha will present at 'Modeling Collective Dynamics in Heterogeneous Cell Populations' mini-symposium at <a href="https://ecmtb2026.org/">ECMTB-SMB</a> in Graz, Austria. talk at the .</li>
+<li><strong>Jul 2026</strong> — Sasha will present at 'Modeling Collective Dynamics in Heterogeneous Cell Populations' mini-symposium at <a href="https://ecmtb2026.org/">ECMTB-SMB</a> in Graz, Austria.</li>
 <li><strong>May 2026</strong> — Sasha will give a seminar talk at the <a href="https://livingmaterials.lu.lv/news/news/detail-view/t/108992/">University of Latvia</a>.</li>
 <li><strong>Apr 2026</strong> — Hengdong will present a poster at <a href="https://intcha26.sciencesconf.org/">IntCha26</a> in Corsica, France.</li>
 <li><strong>Mar 2026</strong> — New preprint 'Cell-induced wrinkling patterns on soft substrates' is available on <a href="https://arxiv.org/pdf/2603.12839">arXiv</a>! Joint work with Deguchi Lab at the Osaka University, where we develop a model that predicts wrinkling patterns on soft substrate driven by cell-generated stresses.</li>
